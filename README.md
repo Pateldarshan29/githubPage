@@ -1,3 +1,3 @@
 # GitHub Page Hosting
 
-[Hosted Site]() (https://pateldarshan29.github.io/githubPage/)
+[Hosted Site](https://pateldarshan29.github.io/githubPage/)
